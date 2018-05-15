@@ -1,3 +1,5 @@
+#!/usr/bin/env julia
+
 READ(x::String) = x
 EVAL(x::String) = x
 PRINT(x::String) = x
